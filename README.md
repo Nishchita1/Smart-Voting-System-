@@ -11,3 +11,11 @@ Smart Voting System Using RFID Cards, Fingerprint &amp; Facial Recognition
 
 4. pip install face_recognition
 
+Snapshots:
+
+![authorised](https://user-images.githubusercontent.com/82816210/202089574-741d6f77-b21f-49b1-b413-d2a14d1f18ca.png)
+
+
+
+
+![unauthorized](https://user-images.githubusercontent.com/82816210/202089615-a3292731-fb25-4549-bfed-d07deebfdbec.png)
