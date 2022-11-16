@@ -10,3 +10,4 @@ Smart Voting System Using RFID Cards, Fingerprint &amp; Facial Recognition
 3. pip install dlib
 
 4. pip install face_recognition
+
