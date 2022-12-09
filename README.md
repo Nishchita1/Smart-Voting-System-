@@ -3,7 +3,7 @@ Smart Voting System Using RFID Cards, Fingerprint &amp; Facial Recognition
 
 In this smart voting system project, we'll be having 3 verification process and considered it as 3 phases of voting system.And adopted a buzzer, if any of these verification phases fails buzzer will gwt activated and beep for few seconds(here i have kept for 7 sec,it can be modified in code as per our wish).
 
-*Phase 1:* Includes RFID Card reader, that verifies the details of voter which is Pre-loaded before voting happens. It's just like a smart card(like metro card) we just need to tap the card on reader, it works on *Radio Frequency Identification.* It replace the current Voting card.
+*Phase 1:* RFID Card reader, that verifies the details of voter which is Pre-loaded before voting happens. It's just like a smart card(like metro card) we just need to tap the card on reader, it works on *Radio Frequency Identification.* It replace the current Voting card.
 
 *Phase 2:* After RFID card verification, Fingerprint module will pops up, We'll be preloaded the voter's fingerprints before the voting day. If eligible voter's details are present in the database it will permit him to the next phase of verification process else it will declare him/her as unauthorized voter.
 
